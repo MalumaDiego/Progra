@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'windows-1252'?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.1//EN" "http://jakarta.apache.org/struts/dtds/struts-config_1_1.dtd">
+<struts-config>
+  <form-beans>
+    <form-bean name="InicioForm" type="mypackage1.InicioForm"/>
+    <form-bean name="altaForm" type="mypackage1.altaForm"/>
+    <form-bean name="okForm" type="mypackage1.okForm"/>
+    <form-bean name="RegistroForm" type="mypackage1.RegistroForm"/>
+    <form-bean name="JugadoresForm" type="mypackage1.JugadoresForm"/>
+  </form-beans>
+  <action-mappings>
+    <action path="/ini" type="mypackage1.InicioAction" name="InicioForm" scope="request">
+      <forward name="bien" path="ok.jsp"/>
+      <forward name="mal" path="nook.jsp"/>
+    </action>
+    <action path="/alta" type="mypackage1.altaAction" name="altaForm" scope="request">
+      <forward name="bien" path="ok.jsp"/>
+      <forward name="mal" path="nook.jsp"/>
+    </action>
+    <action path="/menu" type="mypackage1.okAction" name="okForm" scope="request">
+      <forward name="alta" path="Altas.jsp"/>
+       <forward name="jugadores" path="jugadores.jsp"/>
+        <forward name="registro" path="Registro.jsp"/>
+    </action>
+    <action path="/jug" type="mypackage1.JugadoresAction"/>
+    <action path="/reg"  type="mypackage1.RegistroAction" name="RegistroForm"  scope="request" >
+      <forward name="bien" path="ok.jsp"/>
+      <forward name="mal" path="nook.jsp"/>
+    </action>
+  </action-mappings>
+  <message-resources parameter="mypackage1.ApplicationResources"/>
+</struts-config>

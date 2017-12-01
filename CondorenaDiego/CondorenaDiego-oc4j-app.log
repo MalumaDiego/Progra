@@ -1,0 +1,1087 @@
+23-11-17 02:15 PM Started
+23-11-17 02:16 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 02:16 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 02:16 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+23-11-17 02:16 PM CondorenaDiego-CondorenaDiego-webapp: Servlet error
+javax.servlet.jsp.JspException: Cannot retrieve definition for form bean null
+	void org.apache.struts.taglib.html.FormTag.lookup()
+		FormTag.java:897
+	int org.apache.struts.taglib.html.FormTag.doStartTag()
+		FormTag.java:543
+	void _ok._jspService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ok.jsp:16
+	void oracle.jsp.runtime.HttpJsp.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpJsp.java:139
+	void oracle.jsp.runtimev2.JspPageTable.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, java.lang.String)
+		JspPageTable.java:317
+	void oracle.jsp.runtimev2.JspServlet.internalService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:465
+	void oracle.jsp.runtimev2.JspServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:379
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forward(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:209
+	void org.apache.struts.action.RequestProcessor.doForward(java.lang.String, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:1014
+	void org.apache.struts.action.RequestProcessor.processForwardConfig(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.config.ForwardConfig)
+		RequestProcessor.java:417
+	void org.apache.struts.action.RequestProcessor.processActionForward(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.ActionForward)
+		RequestProcessor.java:390
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:271
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.processRequest(com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.ApplicationServerThread, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletRequest, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+23-11-17 02:18 PM Started
+23-11-17 02:18 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 02:18 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 02:18 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+23-11-17 02:26 PM Started
+23-11-17 02:26 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 02:26 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 02:26 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+23-11-17 02:30 PM Started
+23-11-17 02:30 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 02:30 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 02:30 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+23-11-17 02:31 PM Started
+23-11-17 02:31 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 02:31 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 02:31 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+23-11-17 02:32 PM Started
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 02:32 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+23-11-17 11:36 PM Started
+23-11-17 11:36 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+23-11-17 11:36 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+23-11-17 11:36 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:17 PM Started
+28-11-17 02:17 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:17 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:17 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:19 PM Started
+28-11-17 02:19 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:19 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:19 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:24 PM CondorenaDiego-CondorenaDiego-webapp: JspServlet: No se ha podido distribuir a la página solicitada: com.evermind.server.http.HttpIOException: Connection aborted by peer: socket write error
+	void com.evermind.server.http.EvermindServletOutputStream.write(byte[], int, int, javax.servlet.jsp.JspWriter)
+		EvermindServletOutputStream.java:249
+	void com.evermind.server.http.EvermindJSPWriter.writeOut(byte[], int, int)
+		EvermindJSPWriter.java:424
+	void com.evermind.server.http.EvermindJSPWriter.jspflush()
+		EvermindJSPWriter.java:341
+	void com.evermind.server.http.EvermindJSPWriter.close()
+		EvermindJSPWriter.java:313
+	void oracle.jsp.runtime.OracleJspRuntime.extraHandlePCFinally(javax.servlet.jsp.PageContext, boolean)
+		OracleJspRuntime.java:1287
+	void _Altas._jspService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		Altas.jsp:32
+	void com.orionserver.http.OrionHttpJspPage.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		OrionHttpJspPage.java:56
+	void oracle.jsp.runtimev2.JspPageTable.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, java.lang.String)
+		JspPageTable.java:317
+	void oracle.jsp.runtimev2.JspServlet.internalService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:465
+	void oracle.jsp.runtimev2.JspServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:379
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind.server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind.server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	void com.evermind.server.http.ServletRequestDispatcher.forward(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:209
+	void org.apache.struts.action.RequestProcessor.doForward(java.lang.String, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:1014
+	void org.apache.struts.action.RequestProcessor.processForwardConfig(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.config.ForwardConfig)
+		RequestProcessor.java:417
+	void org.apache.struts.action.RequestProcessor.processActionForward(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.ActionForward)
+		RequestProcessor.java:390
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:271
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind.server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind.server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind.server.http.HttpRequestHandler.processRequest(com.evermind.server.ApplicationServerThread, com.evermind.server.http.EvermindHttpServletRequest, com.evermind.server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind.server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind.server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+
+28-11-17 02:24 PM CondorenaDiego-CondorenaDiego-webapp: OracleJSP:
+<HTML><BODY>
+<P> <H2  ALIGN=CENTER>Error JSP:</H2> <HR  ALIGN=CENTER> <P>
+<P><H3>URI de Solicitud:/CondorenaDiego-CondorenaDiego-context-root/Altas.jsp</H3><P>
+<BR><H3>Excepción:</H3><PRE>
+com.evermind.server.http.HttpIOException: Connection aborted by peer: socket write error
+	void com.evermind.server.http.EvermindServletOutputStream.write(byte[], int, int, javax.servlet.jsp.JspWriter)
+		EvermindServletOutputStream.java:249
+	void com.evermind.server.http.EvermindJSPWriter.writeOut(byte[], int, int)
+		EvermindJSPWriter.java:424
+	void com.evermind.server.http.EvermindJSPWriter.jspflush()
+		EvermindJSPWriter.java:341
+	void com.evermind.server.http.EvermindJSPWriter.close()
+		EvermindJSPWriter.java:313
+	void oracle.jsp.runtime.OracleJspRuntime.extraHandlePCFinally(javax.servlet.jsp.PageContext, boolean)
+		OracleJspRuntime.java:1287
+	void _Altas._jspService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+	[/Altas.jsp]
+		Altas.jsp:32
+	void com.orionserver.http.OrionHttpJspPage.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		OrionHttpJspPage.java:56
+		[SRC:/Altas.jsp:22]
+	void oracle.jsp.runtimev2.JspPageTable.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, java.lang.String)
+		JspPageTable.java:317
+	void oracle.jsp.runtimev2.JspServlet.internalService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:465
+	void oracle.jsp.runtimev2.JspServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:379
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind.server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind.server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	void com.evermind.server.http.ServletRequestDispatcher.forward(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:209
+	void org.apache.struts.action.RequestProcessor.doForward(java.lang.String, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:1014
+	void org.apache.struts.action.RequestProcessor.processForwardConfig(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.config.ForwardConfig)
+		RequestProcessor.java:417
+	void org.apache.struts.action.RequestProcessor.processActionForward(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.ActionForward)
+		RequestProcessor.java:390
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:271
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind.server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind.server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind.server.http.HttpRequestHandler.processRequest(com.evermind.server.ApplicationServerThread, com.evermind.server.http.EvermindHttpServletRequest, com.evermind.server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind.server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind.server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+
+</PRE>
+<P><P><HR ALIGN=CENTER>
+</HTML></BODY>
+
+28-11-17 02:31 PM Started
+28-11-17 02:31 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:31 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:31 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:33 PM Started
+28-11-17 02:33 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:33 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:33 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:36 PM CondorenaDiego-CondorenaDiego-webapp: Servlet error
+java.lang.NullPointerException
+	org.apache.struts.action.ActionForward mypackage1.okAction.execute(org.apache.struts.action.ActionMapping, org.apache.struts.action.ActionForm, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		okAction.java:33
+	org.apache.struts.action.ActionForward org.apache.struts.action.RequestProcessor.processActionPerform(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.Action, org.apache.struts.action.ActionForm, org.apache.struts.action.ActionMapping)
+		RequestProcessor.java:446
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:266
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doGet(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:492
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:740
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.processRequest(com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.ApplicationServerThread, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletRequest, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+28-11-17 02:37 PM Started
+28-11-17 02:37 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:37 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:37 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:47 PM Started
+28-11-17 02:47 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:47 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:47 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:48 PM Started
+28-11-17 02:48 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:48 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:48 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:49 PM Started
+28-11-17 02:49 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:49 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:49 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:50 PM Started
+28-11-17 02:50 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:50 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:50 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:52 PM Started
+28-11-17 02:52 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:52 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:52 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:54 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 02:54 PM Started
+28-11-17 02:54 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:54 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:54 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:57 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 02:57 PM Started
+28-11-17 02:57 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:57 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:57 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 02:59 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 02:59 PM Started
+28-11-17 02:59 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 02:59 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 02:59 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:01 PM Started
+28-11-17 03:01 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:01 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:01 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:11 PM Started
+28-11-17 03:11 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:11 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:11 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:16 PM Started
+28-11-17 03:16 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:16 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:16 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:21 PM Started
+28-11-17 03:21 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:21 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:21 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:23 PM Started
+28-11-17 03:23 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:23 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:23 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:26 PM Started
+28-11-17 03:26 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:26 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:26 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:28 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 03:28 PM Started
+28-11-17 03:28 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:28 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:28 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:32 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 03:32 PM Started
+28-11-17 03:32 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:32 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:32 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:33 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 03:33 PM Started
+28-11-17 03:33 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:33 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:33 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:42 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 03:42 PM Started
+28-11-17 03:42 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:42 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:42 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:44 PM Started
+28-11-17 03:44 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:44 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:44 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:45 PM Started
+28-11-17 03:45 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:45 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:45 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:46 PM Started
+28-11-17 03:46 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:46 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:46 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:47 PM Started
+28-11-17 03:47 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:47 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:47 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 03:51 PM Started
+28-11-17 03:51 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 03:51 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 03:51 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:02 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:02 PM Started
+28-11-17 04:02 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:02 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:02 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:07 PM Started
+28-11-17 04:07 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:07 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:07 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:10 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:10 PM Started
+28-11-17 04:10 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:10 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:10 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:10 PM CondorenaDiego-CondorenaDiego-webapp: Servlet error
+java.lang.NullPointerException
+	org.apache.struts.action.ActionForward mypackage1.okAction.execute(org.apache.struts.action.ActionMapping, org.apache.struts.action.ActionForm, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		okAction.java:33
+	org.apache.struts.action.ActionForward org.apache.struts.action.RequestProcessor.processActionPerform(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.Action, org.apache.struts.action.ActionForm, org.apache.struts.action.ActionMapping)
+		RequestProcessor.java:446
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:266
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.processRequest(com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.ApplicationServerThread, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletRequest, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+28-11-17 04:11 PM Started
+28-11-17 04:11 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:11 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:11 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:12 PM CondorenaDiego-CondorenaDiego-webapp: Servlet error
+java.lang.NullPointerException
+	org.apache.struts.action.ActionForward mypackage1.okAction.execute(org.apache.struts.action.ActionMapping, org.apache.struts.action.ActionForm, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		okAction.java:33
+	org.apache.struts.action.ActionForward org.apache.struts.action.RequestProcessor.processActionPerform(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.Action, org.apache.struts.action.ActionForm, org.apache.struts.action.ActionMapping)
+		RequestProcessor.java:446
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:266
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.processRequest(com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.ApplicationServerThread, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletRequest, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:797
+	void java.lang.Thread.run()
+		Thread.java:484
+28-11-17 04:15 PM Started
+28-11-17 04:15 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:15 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:15 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:15 PM CondorenaDiego-CondorenaDiego-webapp: Servlet error
+java.lang.NullPointerException
+	org.apache.struts.action.ActionForward mypackage1.okAction.execute(org.apache.struts.action.ActionMapping, org.apache.struts.action.ActionForm, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		okAction.java:33
+	org.apache.struts.action.ActionForward org.apache.struts.action.RequestProcessor.processActionPerform(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.Action, org.apache.struts.action.ActionForm, org.apache.struts.action.ActionMapping)
+		RequestProcessor.java:446
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:266
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.processRequest(com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.ApplicationServerThread, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletRequest, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+28-11-17 04:16 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:16 PM Started
+28-11-17 04:16 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:16 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:16 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:22 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:22 PM Started
+28-11-17 04:22 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:22 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:22 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:25 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:25 PM Started
+28-11-17 04:25 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:25 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:25 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:26 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:26 PM Started
+28-11-17 04:26 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:26 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:26 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:27 PM Started
+28-11-17 04:27 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:27 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:27 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:29 PM Started
+28-11-17 04:29 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:29 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:29 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:33 PM Started
+28-11-17 04:33 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:33 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:33 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:33 PM Started
+28-11-17 04:33 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:33 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:33 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:36 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:36 PM Started
+28-11-17 04:36 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:36 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:36 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:38 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:38 PM Started
+28-11-17 04:38 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:38 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:38 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:38 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:38 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:38 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:40 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:40 PM Started
+28-11-17 04:40 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:40 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:40 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:40 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:40 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:40 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:41 PM Started
+28-11-17 04:41 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:41 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:41 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:43 PM Started
+28-11-17 04:43 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:43 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:43 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:47 PM Started
+28-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:48 PM Started
+28-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:51 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:51 PM Started
+28-11-17 04:51 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:52 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:52 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:53 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:53 PM Started
+28-11-17 04:53 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:53 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:53 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:54 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:54 PM Started
+28-11-17 04:54 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:54 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:54 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:54 PM Started
+28-11-17 04:54 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:54 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:54 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:56 PM Started
+28-11-17 04:56 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:56 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:56 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:57 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:57 PM Started
+28-11-17 04:57 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:57 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:57 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:57 PM Started
+28-11-17 04:57 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:57 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:57 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:59 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 04:59 PM Started
+28-11-17 04:59 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 04:59 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 04:59 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 04:59 PM Started
+28-11-17 04:59 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:00 PM Started
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:00 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:04 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:04 PM Started
+28-11-17 05:04 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:04 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:04 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:05 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:05 PM Started
+28-11-17 05:05 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:05 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:05 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:06 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:06 PM Started
+28-11-17 05:06 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:06 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:06 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:07 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:07 PM Started
+28-11-17 05:07 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:07 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:07 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:07 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:07 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:07 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:09 PM Started
+28-11-17 05:09 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:09 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:09 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:11 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:11 PM Started
+28-11-17 05:11 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:11 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:12 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:12 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:12 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:12 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:12 PM Started
+28-11-17 05:12 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:12 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:12 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:14 PM Started
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:14 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:15 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 05:17 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 05:17 PM Started
+28-11-17 05:17 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 05:17 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 05:17 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 10:30 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 10:30 PM Started
+28-11-17 10:30 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 10:30 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 10:30 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 11:11 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+28-11-17 11:11 PM Started
+28-11-17 11:11 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 11:11 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 11:11 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+28-11-17 11:12 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+28-11-17 11:12 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+28-11-17 11:12 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+29-11-17 01:36 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+29-11-17 01:36 PM Started
+29-11-17 01:36 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+29-11-17 01:36 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+29-11-17 01:36 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+29-11-17 01:36 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+29-11-17 01:36 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+29-11-17 01:36 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 12:50 PM Started
+30-11-17 12:50 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 12:50 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 12:50 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 03:57 PM Started
+30-11-17 03:57 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 03:57 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 03:57 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:34 PM Started
+30-11-17 04:34 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:34 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:34 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:41 PM Started
+30-11-17 04:41 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:41 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:41 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:44 PM Started
+30-11-17 04:44 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:44 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:44 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:45 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+30-11-17 04:45 PM Started
+30-11-17 04:45 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:45 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:45 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:47 PM Started
+30-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:47 PM Started
+30-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:47 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:48 PM Started
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:48 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:49 PM Started
+30-11-17 04:49 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:49 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:49 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 04:50 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+30-11-17 04:50 PM Started
+30-11-17 04:50 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 04:50 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 04:50 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 09:52 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+30-11-17 09:52 PM Started
+30-11-17 09:52 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 09:52 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 09:52 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 09:58 PM Started
+30-11-17 09:58 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 09:58 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 09:58 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 10:00 PM Started
+30-11-17 10:00 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 10:00 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 10:00 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 10:21 PM Started
+30-11-17 10:21 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 10:21 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 10:21 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 10:23 PM Started
+30-11-17 10:23 PM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+30-11-17 10:23 PM CondorenaDiego-CondorenaDiego-webapp: action: init
+30-11-17 10:23 PM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+30-11-17 10:23 PM CondorenaDiego-CondorenaDiego-webapp: JspServlet: No se ha podido distribuir a la página solicitada: com.evermind.server.http.HttpIOException: Connection aborted by peer: socket write error
+	void com.evermind.server.http.EvermindServletOutputStream.write(byte[], int, int, javax.servlet.jsp.JspWriter)
+		EvermindServletOutputStream.java:249
+	void com.evermind.server.http.EvermindJSPWriter.writeOut(byte[], int, int)
+		EvermindJSPWriter.java:424
+	void com.evermind.server.http.EvermindJSPWriter.jspflush()
+		EvermindJSPWriter.java:341
+	void com.evermind.server.http.EvermindJSPWriter.close()
+		EvermindJSPWriter.java:313
+	void oracle.jsp.runtime.OracleJspRuntime.extraHandlePCFinally(javax.servlet.jsp.PageContext, boolean)
+		OracleJspRuntime.java:1287
+	void _ok._jspService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ok.jsp:97
+	void oracle.jsp.runtime.HttpJsp.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpJsp.java:139
+	void oracle.jsp.runtimev2.JspPageTable.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, java.lang.String)
+		JspPageTable.java:317
+	void oracle.jsp.runtimev2.JspServlet.internalService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:465
+	void oracle.jsp.runtimev2.JspServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:379
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind.server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind.server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	void com.evermind.server.http.ServletRequestDispatcher.forward(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:209
+	void org.apache.struts.action.RequestProcessor.doForward(java.lang.String, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:1014
+	void org.apache.struts.action.RequestProcessor.processForwardConfig(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.config.ForwardConfig)
+		RequestProcessor.java:417
+	void org.apache.struts.action.RequestProcessor.processActionForward(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.ActionForward)
+		RequestProcessor.java:390
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:271
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind.server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind.server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind.server.http.HttpRequestHandler.processRequest(com.evermind.server.ApplicationServerThread, com.evermind.server.http.EvermindHttpServletRequest, com.evermind.server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind.server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind.server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+
+30-11-17 10:23 PM CondorenaDiego-CondorenaDiego-webapp: OracleJSP:
+<HTML><BODY>
+<P> <H2  ALIGN=CENTER>Error JSP:</H2> <HR  ALIGN=CENTER> <P>
+<P><H3>URI de Solicitud:/CondorenaDiego-CondorenaDiego-context-root/ok.jsp</H3><P>
+<BR><H3>Excepción:</H3><PRE>
+com.evermind.server.http.HttpIOException: Connection aborted by peer: socket write error
+	void com.evermind.server.http.EvermindServletOutputStream.write(byte[], int, int, javax.servlet.jsp.JspWriter)
+		EvermindServletOutputStream.java:249
+	void com.evermind.server.http.EvermindJSPWriter.writeOut(byte[], int, int)
+		EvermindJSPWriter.java:424
+	void com.evermind.server.http.EvermindJSPWriter.jspflush()
+		EvermindJSPWriter.java:341
+	void com.evermind.server.http.EvermindJSPWriter.close()
+		EvermindJSPWriter.java:313
+	void oracle.jsp.runtime.OracleJspRuntime.extraHandlePCFinally(javax.servlet.jsp.PageContext, boolean)
+		OracleJspRuntime.java:1287
+	void _ok._jspService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+	[/ok.jsp]
+		ok.jsp:97
+	void oracle.jsp.runtime.HttpJsp.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpJsp.java:139
+	void oracle.jsp.runtimev2.JspPageTable.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, java.lang.String)
+		JspPageTable.java:317
+	void oracle.jsp.runtimev2.JspServlet.internalService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:465
+	void oracle.jsp.runtimev2.JspServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:379
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind.server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind.server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	void com.evermind.server.http.ServletRequestDispatcher.forward(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:209
+	void org.apache.struts.action.RequestProcessor.doForward(java.lang.String, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:1014
+	void org.apache.struts.action.RequestProcessor.processForwardConfig(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.config.ForwardConfig)
+		RequestProcessor.java:417
+	void org.apache.struts.action.RequestProcessor.processActionForward(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.ActionForward)
+		RequestProcessor.java:390
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:271
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind.server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind.server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind.server.http.HttpRequestHandler.processRequest(com.evermind.server.ApplicationServerThread, com.evermind.server.http.EvermindHttpServletRequest, com.evermind.server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind.server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind.server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+
+</PRE>
+<P><P><HR ALIGN=CENTER>
+</HTML></BODY>
+
+01-12-17 03:44 AM Started
+01-12-17 03:44 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 03:44 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 03:44 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 03:47 AM Started
+01-12-17 03:47 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 03:47 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 03:47 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 04:46 AM Started
+01-12-17 04:46 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 04:46 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 04:46 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 04:48 AM Started
+01-12-17 04:56 AM Started
+01-12-17 04:56 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 04:56 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 04:56 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:04 AM Started
+01-12-17 05:04 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:04 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:04 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:12 AM Started
+01-12-17 05:12 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:12 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:12 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:18 AM Started
+01-12-17 05:18 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:18 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:18 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:19 AM Started
+01-12-17 05:19 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:19 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:19 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:20 AM Started
+01-12-17 05:20 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:20 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:20 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:24 AM Started
+01-12-17 05:24 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:24 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:24 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:30 AM Started
+01-12-17 05:30 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:30 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:30 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:51 AM Started
+01-12-17 05:51 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:51 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:51 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:53 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 05:53 AM Started
+01-12-17 05:53 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:53 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:53 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:56 AM Started
+01-12-17 05:56 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:56 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:56 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 05:59 AM Started
+01-12-17 05:59 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 05:59 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 05:59 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:01 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 06:02 AM Started
+01-12-17 06:02 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:02 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:02 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:05 AM Started
+01-12-17 06:05 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:05 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:05 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:08 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 06:08 AM Started
+01-12-17 06:08 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:08 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:08 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:11 AM Started
+01-12-17 06:11 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:11 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:11 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:13 AM Started
+01-12-17 06:13 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:13 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:13 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:14 AM Started
+01-12-17 06:14 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:14 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:14 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:16 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 06:16 AM Started
+01-12-17 06:16 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:16 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:16 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:41 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 06:41 AM Started
+01-12-17 06:41 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:41 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:41 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:51 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 06:51 AM Started
+01-12-17 06:51 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:51 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:51 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:52 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 06:52 AM Started
+01-12-17 06:52 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:52 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:52 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 06:53 AM CondorenaDiego-CondorenaDiego-webapp: Servlet error
+javax.servlet.jsp.JspException: Cannot retrieve mapping for action /galeria
+	void org.apache.struts.taglib.html.FormTag.lookup()
+		FormTag.java:871
+	int org.apache.struts.taglib.html.FormTag.doStartTag()
+		FormTag.java:543
+	void _Registro._jspService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		Registro.jsp:15
+	void oracle.jsp.runtime.HttpJsp.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpJsp.java:139
+	void oracle.jsp.runtimev2.JspPageTable.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, java.lang.String)
+		JspPageTable.java:317
+	void oracle.jsp.runtimev2.JspServlet.internalService(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:465
+	void oracle.jsp.runtimev2.JspServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		JspServlet.java:379
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forward(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:209
+	void org.apache.struts.action.RequestProcessor.doForward(java.lang.String, javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:1014
+	void org.apache.struts.action.RequestProcessor.processForwardConfig(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.config.ForwardConfig)
+		RequestProcessor.java:417
+	void org.apache.struts.action.RequestProcessor.processActionForward(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse, org.apache.struts.action.ActionForward)
+		RequestProcessor.java:390
+	void org.apache.struts.action.RequestProcessor.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		RequestProcessor.java:271
+	void org.apache.struts.action.ActionServlet.process(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:1292
+	void org.apache.struts.action.ActionServlet.doPost(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		ActionServlet.java:510
+	void javax.servlet.http.HttpServlet.service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse)
+		HttpServlet.java:760
+	void javax.servlet.http.HttpServlet.service(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		HttpServlet.java:853
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.invoke(javax.servlet.ServletRequest, javax.servlet.ServletResponse)
+		ServletRequestDispatcher.java:721
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.ServletRequestDispatcher.forwardInternal(javax.servlet.ServletRequest, javax.servlet.http.HttpServletResponse)
+		ServletRequestDispatcher.java:306
+	boolean com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.processRequest(com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.ApplicationServerThread, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletRequest, com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.EvermindHttpServletResponse, java.io.InputStream, java.io.OutputStream, boolean)
+		HttpRequestHandler.java:767
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run(java.lang.Thread)
+		HttpRequestHandler.java:259
+	void com.evermind[Oracle9iAS (9.0.3.0.0) Containers for J2EE].server.http.HttpRequestHandler.run()
+		HttpRequestHandler.java:106
+	void EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run()
+		PooledExecutor.java:803
+	void java.lang.Thread.run()
+		Thread.java:484
+01-12-17 06:57 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 06:57 AM Started
+01-12-17 06:57 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 06:57 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 06:57 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 07:00 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 07:00 AM Started
+01-12-17 07:00 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 07:00 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 07:00 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 07:02 AM Started
+01-12-17 07:02 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 07:02 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 07:02 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 07:06 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 07:06 AM Started
+01-12-17 07:06 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 07:06 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 07:06 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 07:08 AM Started
+01-12-17 07:08 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 07:08 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 07:08 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 07:13 AM Started
+01-12-17 07:13 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 07:13 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 07:13 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 07:14 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 07:14 AM Started
+01-12-17 07:14 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 07:14 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 07:14 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 07:18 AM Started
+01-12-17 07:18 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 07:18 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 07:18 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
+01-12-17 07:20 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Stopped
+01-12-17 07:20 AM Started
+01-12-17 07:20 AM CondorenaDiego-CondorenaDiego-webapp: JDevOJSP: init
+01-12-17 07:20 AM CondorenaDiego-CondorenaDiego-webapp: action: init
+01-12-17 07:20 AM CondorenaDiego-CondorenaDiego-webapp: 9.0.3.0.0 Started
